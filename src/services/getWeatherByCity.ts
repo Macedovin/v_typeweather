@@ -24,7 +24,7 @@ export interface WeatherAPIResponseProps {
       speed: number;
     },
     weather: {
-      main: string;
+      main: 'Clouds' | 'Rain' | 'Clear' | 'Snow';
       description: string;
     }[];
   }[];
@@ -33,8 +33,6 @@ export interface WeatherAPIResponseProps {
 export async function getWeatherByCity({ latitude, longitude }: GetWeatherByCityProps) {
   const { data } = await api.get<WeatherAPIResponseProps>(`/forecast?lat=${latitude}&lon=${longitude}`);
   const { main, weather, wind, pop } = data.list[0];
-
-  weather[0].main = ''
 
   const today = {
     weather: {
