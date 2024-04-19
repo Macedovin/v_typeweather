@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./README-assets/sacola_API-logo.png" width="140px" alt="Sacola API logo"/>
+  <img src="./README-assets/sacola_API-logo.png" width="140px" alt="V_typeweather logo"/>
 </p>
 
 # V_Typeweather
