@@ -10,7 +10,7 @@
 
 <br/>
 
-**Simple Backend API to serve a Frontend Application with a food delivery domain.**
+**Frontend application for searching and obtaining different meteorological data (weather information) by city.**
 
 ---
 
@@ -28,11 +28,21 @@
 ## About
 <br/>
 
-Project developed as a FREE starter for a DIO's Bootcamp wich I didn't do.
+Project developed by [@Rocketseat](https://github.com/Rocketseat) and Rodrigo Gonçalves - [@orodrigo](https://github.com/orodrigogo) as a bonus Typescript module from Rocketseat's "Trilha Explorer".
+
+Created using JavaScript, it is converted to Typescript with the student throughout the classes, taking advantage of the language tools, as well as the situations that occurred during the transcription to carry out the teachings.
 
 # Tech Stack and tools
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Macedovin-Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="Macedovin-Postman" height="30" width="30" src="./README-assets/postman-icon-svgrepo-com.svg"/>
+	  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Macedovin-Js" />
+    <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="Macedovin-ReactJS" />
+	  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" alt="Macedovin-NodeJs" />
+	  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" alt="Macedovin-NPM" />
+    <img align="center" height="35" width="40" src="./README-assets/vite-svgrepo-com.svg" />  
+    <img align="center" height="40" width="70" src="https://axios-http.com/assets/logo.svg" alt="Macedovin-Axios" />
+    <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Macedovin-HTML" />
+    <img align="center"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="Macedovin-CSS" />
+    <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" alt="Macedovin-Figma" />
 </div>
