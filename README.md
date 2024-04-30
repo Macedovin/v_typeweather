@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./README-assets/V_logo-ico.png" width="140px" alt="V_typeweather logo"/>
+  <img src="./README-assets/V-logo_ico.svg" width="140px" alt="V_typeweather logo"/>
 </p>
 
 # V_Typeweather
