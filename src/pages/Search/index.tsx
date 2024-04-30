@@ -14,7 +14,7 @@ export function Search() {
 
   return (
     <div className="home">
-      <img src="logo_large.svg" alt="Logo" />
+      <img src="V-logo_large.svg" alt="Logo" />
 
       <main>
         <h1>Boas vindas ao <strong>TypeWeather</strong></h1>
