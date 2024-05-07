@@ -49,7 +49,7 @@ export function Details({ data }: Props) {
           title="Variação da temperatura"
           value={data.temp_kf.toString()}
 //        Parse:
-//        value={data.temp_kf}
+//        value={String(data.temp_kf)}
           
         />
       </div>
